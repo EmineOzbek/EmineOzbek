@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there, I'm Emine Özbek👋
+- 👨‍🎓 I am a graduate of Electrical and Electronics Engineering.
+- 👩‍💻 I want to work as a software developer, that's why I'm here!
+- 🌱 I’m currently learning JAVA.
+
+
+### 📩 Connect with me:
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/emineozbek/
+
 
 <!--
 **EmineOzbek/EmineOzbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
