@@ -1,5 +1,5 @@
 # Hi there, I'm Emine Özbek👋
-- 👨‍🎓 I am a graduate of Electrical and Electronics Engineering.
+- 👨‍🎓 I am a graduate of Electrical Electronics Engineering.
 - 👩‍💻 I want to work as a software developer, that's why I'm here!
 - 🌱 I’m currently learning JAVA.
 
