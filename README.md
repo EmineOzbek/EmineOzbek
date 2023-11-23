@@ -1,7 +1,7 @@
 # Hi there, I'm Emine Özbek👋
 - 👨‍🎓 I am a graduate of Electrical Electronics Engineering.
 - 📚 I am currently doing my master's degree in computer engineering at Ondokuzmayıs University.
-- 👩‍💻 I have been working as a java developer for 1 year.
+- 👩‍💻 I work as a Java Developer.
 - 🌱 I’m currently developing JAVA.
 
 
